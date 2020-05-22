@@ -1,20 +1,16 @@
-# Android-with-Kotlin-MVVM-Dagger-2-RxJava-Retrofit
+# Android-Doubtnut-assignment
 
+I used url for get data :https://www.apphusetreach.no/application/119267/article/get_articles_list
 
-## Example’s Feature:
+## Feature:
 * Load data from server Using Retrofit2. 
 * Use Livedata with Room. 
-
-
-
-
 ***
 ## Technology Stack
 * Kotlin
 * Android
 
 DB
-* Firebase LiveData
 * Offline Storage Using Room
 
 
@@ -24,6 +20,5 @@ Architectural Pattern
 Libraries
 * RxJava
 * Dagger2
-* Firestore
 * Room 
 
